@@ -84,7 +84,3 @@ Endpoint: `/logout/`
 Headers: `Authorization: JWT YOUR_TOKEN_HERE`  
 
 
-### Admin Credentials
-### Username: `admin`  
-### Password: `admin` 
-
